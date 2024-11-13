@@ -1,4 +1,4 @@
-# Corporate-Data-Analysis-and-Insights-Repository\
+# Corporate-Data-Analysis-and-Insights-Repository
 
 
 This repository includes comprehensive business case studies for McDonald's, Verizon, and Planet Fitness, focusing on exploratory data analysis (EDA), model development, and final presentations to deliver actionable business insights. Each case study is structured to address specific business challenges through data-driven approaches, utilizing real-world data to explore trends, identify key factors affecting business performance, and make informed recommendations.
